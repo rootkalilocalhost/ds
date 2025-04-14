@@ -9,4 +9,5 @@ git clone https://github.com/rootkalilocalhost/ds.git && cd ds && cd ds && chmod
 • Start
 
 cd ds && bash ds.sh
+
 cd ds && bash ds_udp.sh
