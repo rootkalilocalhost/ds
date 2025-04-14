@@ -10,4 +10,4 @@ git clone https://github.com/rootkalilocalhost/ds.git && cd ds && cd ds && chmod
 
 cd ds && bash ds.sh
 
-cd ds && bash ds_udp.sh
+cd ds && bash ds-udp.sh
